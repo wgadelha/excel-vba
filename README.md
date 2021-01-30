@@ -1,2 +1,3 @@
 # excel-vba
-Reusable VBA / Macro modules and functions for Microsoft Excel.
+
+This repository is created to store some VBA / Macro modules and functions for Microsoft Excel that I have used/developed.
